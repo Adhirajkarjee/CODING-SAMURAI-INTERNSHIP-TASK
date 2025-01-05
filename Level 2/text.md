@@ -1,4 +1,4 @@
-#Level 2:
+Level 2:
 
 # Project 3: Data Analytics - Exploratory Data Analysis (EDA) on Titanic Dataset
 
