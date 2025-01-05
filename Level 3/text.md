@@ -1,4 +1,4 @@
-#Level 3:
+Level 3:
 # Project 5: Time Series Forecasting for Stock Prices
 
 ## Description
